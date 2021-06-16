@@ -3,3 +3,17 @@
   height: 64px;
   width: 100%;
 }
+
+.section .top-title {
+  text-align: center;
+}
+
+.section .rec-tournament {
+  font-size: 40px;
+}
+
+.section .service .rec-slick {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
